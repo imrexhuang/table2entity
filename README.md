@@ -5,13 +5,16 @@
 
 http://samchu.logdown.com/posts/7030828-how-to-use-jooq-generate-entity-with-the-jpa-specification
 
-Notice:
+※Warning:
 
 This project is still being developed!
 
-Alternative choice:JOOQ
+Alternative choice 1:NetBeans (New -> Other -> Persistence -> Entity Classes from Database )
+![image description](pic\NetBeansReverseJPAEntity.png)
 
-https://www.jooq.org/
+Alternative choice 2:JOOQ
+
+https://www.jooq.org
 
 # Environment
 
