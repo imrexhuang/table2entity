@@ -1,0 +1,5 @@
+.gradle/
+.idea/
+build/
+table2pojo.iml
+table2entity.iml
