@@ -1,7 +1,7 @@
 # 注意
 產生的Entity程式碼並未符合JPA 規範，產生後仍需手動調整，還在研究如何精進
 
-或是可以使用JOOQ
+您也可以使用NetBeans(New -> Other -> Persistence -> Entity Classes from Database)或是JOOQ
 
 http://samchu.logdown.com/posts/7030828-how-to-use-jooq-generate-entity-with-the-jpa-specification
 
@@ -9,7 +9,10 @@ http://samchu.logdown.com/posts/7030828-how-to-use-jooq-generate-entity-with-the
 
 This project is still being developed!
 
-Alternative choice 1:NetBeans (New -> Other -> Persistence -> Entity Classes from Database )
+Alternative choice 1:NetBeans (New -> Other -> Persistence -> Entity Classes from Database)
+
+https://netbeans.apache.org
+
 ![image description](pic/NetBeansReverseJPAEntity.png)
 
 Alternative choice 2:JOOQ
