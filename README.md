@@ -10,7 +10,7 @@ http://samchu.logdown.com/posts/7030828-how-to-use-jooq-generate-entity-with-the
 This project is still being developed!
 
 Alternative choice 1:NetBeans (New -> Other -> Persistence -> Entity Classes from Database )
-![image description](pic\NetBeansReverseJPAEntity.png)
+![image description](pic/NetBeansReverseJPAEntity.png)
 
 Alternative choice 2:JOOQ
 
