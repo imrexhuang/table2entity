@@ -5,6 +5,10 @@
 
 http://samchu.logdown.com/posts/7030828-how-to-use-jooq-generate-entity-with-the-jpa-specification
 
+Notice:
+
+This project is still being developed!
+
 Alternative choice:JOOQ
 
 https://www.jooq.org/
